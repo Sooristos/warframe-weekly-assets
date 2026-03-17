@@ -10,6 +10,7 @@ Bibliothèque d’images organisée pour le projet Warframe Weekly.
 - `archontes` : images liées aux Archontes
 - `teshin` : images liées aux récompenses hebdos Teshin
 - `calendrier-1999` : images récompenses hebdos du calendrier 1999
+- `missions` : icones des missions
 
 ## Convention de nommage
 
