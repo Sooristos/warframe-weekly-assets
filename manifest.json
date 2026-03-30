@@ -3,8 +3,8 @@
     "repo": "https://github.com/Sooristos/warframe-weekly-assets",
     "raw_base": "https://raw.githubusercontent.com/Sooristos/warframe-weekly-assets/main",
     "branch": "main",
-    "generated_at": "2026-03-17 01:50:23",
-    "total_images": 62,
+    "generated_at": "2026-03-31 00:10:53",
+    "total_images": 64,
     "total_folders": 6
   },
   "folders": {
@@ -20,7 +20,7 @@
     },
     "calendrier-1999": {
       "label": "Calendrier 1999 — Récompenses hebdo",
-      "count": 28,
+      "count": 29,
       "raw_prefix": "https://raw.githubusercontent.com/Sooristos/warframe-weekly-assets/main/calendrier-1999",
       "images": {
         "calendrier-1999.adaptateur-arcane-arme-melee": "https://raw.githubusercontent.com/Sooristos/warframe-weekly-assets/main/calendrier-1999/adaptateur-arcane-arme-melee.png",
@@ -49,6 +49,7 @@
         "calendrier-1999.mod-riven-melee": "https://raw.githubusercontent.com/Sooristos/warframe-weekly-assets/main/calendrier-1999/mod-riven-melee.png",
         "calendrier-1999.mod-riven-pistolet": "https://raw.githubusercontent.com/Sooristos/warframe-weekly-assets/main/calendrier-1999/mod-riven-pistolet.png",
         "calendrier-1999.mod-riven-zaw": "https://raw.githubusercontent.com/Sooristos/warframe-weekly-assets/main/calendrier-1999/mod-riven-zaw.webp",
+        "calendrier-1999.pack-arcanes": "https://raw.githubusercontent.com/Sooristos/warframe-weekly-assets/main/calendrier-1999/pack-arcanes.png",
         "calendrier-1999.reacteur-orokin-schema": "https://raw.githubusercontent.com/Sooristos/warframe-weekly-assets/main/calendrier-1999/reacteur-orokin-schema.png",
         "calendrier-1999.vosfor": "https://raw.githubusercontent.com/Sooristos/warframe-weekly-assets/main/calendrier-1999/vosfor.png"
       }
@@ -99,10 +100,11 @@
     },
     "teshin": {
       "label": "Teshin — Récompenses hebdo Conclave",
-      "count": 8,
+      "count": 9,
       "raw_prefix": "https://raw.githubusercontent.com/Sooristos/warframe-weekly-assets/main/teshin",
       "images": {
         "teshin.endo": "https://raw.githubusercontent.com/Sooristos/warframe-weekly-assets/main/teshin/endo.png",
+        "teshin.essence-acier": "https://raw.githubusercontent.com/Sooristos/warframe-weekly-assets/main/teshin/essence-acier.png",
         "teshin.forma_umbra": "https://raw.githubusercontent.com/Sooristos/warframe-weekly-assets/main/teshin/forma_umbra.png",
         "teshin.forma_x3": "https://raw.githubusercontent.com/Sooristos/warframe-weekly-assets/main/teshin/forma_x3.png",
         "teshin.kuva": "https://raw.githubusercontent.com/Sooristos/warframe-weekly-assets/main/teshin/kuva.png",
@@ -143,6 +145,7 @@
     "calendrier-1999.mod-riven-melee": "https://raw.githubusercontent.com/Sooristos/warframe-weekly-assets/main/calendrier-1999/mod-riven-melee.png",
     "calendrier-1999.mod-riven-pistolet": "https://raw.githubusercontent.com/Sooristos/warframe-weekly-assets/main/calendrier-1999/mod-riven-pistolet.png",
     "calendrier-1999.mod-riven-zaw": "https://raw.githubusercontent.com/Sooristos/warframe-weekly-assets/main/calendrier-1999/mod-riven-zaw.webp",
+    "calendrier-1999.pack-arcanes": "https://raw.githubusercontent.com/Sooristos/warframe-weekly-assets/main/calendrier-1999/pack-arcanes.png",
     "calendrier-1999.reacteur-orokin-schema": "https://raw.githubusercontent.com/Sooristos/warframe-weekly-assets/main/calendrier-1999/reacteur-orokin-schema.png",
     "calendrier-1999.vosfor": "https://raw.githubusercontent.com/Sooristos/warframe-weekly-assets/main/calendrier-1999/vosfor.png",
     "circuit-normal.circuit_normal_semaine_1": "https://raw.githubusercontent.com/Sooristos/warframe-weekly-assets/main/circuit-normal/circuit_normal_semaine_1.webp",
@@ -169,6 +172,7 @@
     "pnj.oiseau3": "https://raw.githubusercontent.com/Sooristos/warframe-weekly-assets/main/pnj/oiseau3.png",
     "pnj.varzia": "https://raw.githubusercontent.com/Sooristos/warframe-weekly-assets/main/pnj/varzia.webp",
     "teshin.endo": "https://raw.githubusercontent.com/Sooristos/warframe-weekly-assets/main/teshin/endo.png",
+    "teshin.essence-acier": "https://raw.githubusercontent.com/Sooristos/warframe-weekly-assets/main/teshin/essence-acier.png",
     "teshin.forma_umbra": "https://raw.githubusercontent.com/Sooristos/warframe-weekly-assets/main/teshin/forma_umbra.png",
     "teshin.forma_x3": "https://raw.githubusercontent.com/Sooristos/warframe-weekly-assets/main/teshin/forma_x3.png",
     "teshin.kuva": "https://raw.githubusercontent.com/Sooristos/warframe-weekly-assets/main/teshin/kuva.png",
